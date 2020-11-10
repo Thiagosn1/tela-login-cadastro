@@ -1,2 +1,3 @@
-# tela-login-cadastro
-Projeto desenvolvido durante as video aulas ministradas no Canal do YouTube - Guilherme Chinaglia.
+# Tela de Login e Cadastro Interativa
+
+Código referente as video aulas ministradas no Canal do YouTube - Guilherme Chinaglia.
